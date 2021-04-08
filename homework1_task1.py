@@ -1,0 +1,5 @@
+name = input("Enter your name ")
+age = int(input("Enter your age "))
+sex = input("Enter your sex ")
+date = input("Enter your birth date ")
+print(f"Hello {name}! Your age is {age}. Your sex is {sex}. Your birth date is {date}.")
